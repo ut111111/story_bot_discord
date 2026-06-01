@@ -1,1 +1,22 @@
-storybot.tar.gz
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Data files
+*.npy
+*.index
+*.jsonl
+
+# Editor files
+*.swp
+*.swo
+
+# OS files
+.DS_Storestorybot.tar.gz
